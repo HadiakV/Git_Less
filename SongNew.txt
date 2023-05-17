@@ -1,0 +1,5 @@
+ara 
+ ara
+END
+ New line Sinema TESt
+END
